@@ -158,11 +158,11 @@
 
 ## More directories
 
-Three repos live so far — more industries are launching soon under [@open-ai-directory](https://github.com/open-ai-directory):
+Four repos live so far — more industries are launching soon under [@open-ai-directory](https://github.com/open-ai-directory):
 
 | | | |
 |---|---|---|
-| **🏥 Healthcare (this repo)** | ⚖️ Legal *(coming soon)* | [📈 Marketing](https://github.com/open-ai-directory/best-ai-tools-for-marketing) |
+| **🏥 Healthcare (this repo)** | [⚖️ Legal](https://github.com/open-ai-directory/best-ai-tools-for-legal) | [📈 Marketing](https://github.com/open-ai-directory/best-ai-tools-for-marketing) |
 | [💰 Finance](https://github.com/open-ai-directory/best-ai-tools-for-finance) | 🏠 Real Estate *(coming soon)* | 🛒 E-commerce *(coming soon)* |
 | 🎓 Teachers *(coming soon)* | 👥 HR *(coming soon)* | 🏭 Manufacturing *(coming soon)* |
 
