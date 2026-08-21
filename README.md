@@ -162,9 +162,9 @@ This is the first repo in the family — more industries are launching soon unde
 
 | | | |
 |---|---|---|
-| **🏥 Healthcare (this repo)** | ⚖️ Legal *(coming soon)* | 📈 Marketing *(coming soon)* |
+| **🏥 Healthcare (this repo)** | ⚖️ Legal *(coming soon)* | [📈 Marketing](https://github.com/open-ai-directory/best-ai-tools-for-marketing) |
 | 💰 Finance *(coming soon)* | 🏠 Real Estate *(coming soon)* | 🛒 E-commerce *(coming soon)* |
-| 🎓 Education *(coming soon)* | 👥 HR *(coming soon)* | 🏭 Manufacturing *(coming soon)* |
+| 🎓 Teachers *(coming soon)* | 👥 HR *(coming soon)* | 🏭 Manufacturing *(coming soon)* |
 
 ## Contributors
 
