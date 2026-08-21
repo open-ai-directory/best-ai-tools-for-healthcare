@@ -184,7 +184,7 @@ Published evaluations show symptom-checker accuracy varies by condition and is g
 
 ## Contributing
 
-Know a tool that belongs here? [Open an issue](../../issues/new/choose) or submit a PR directly — see [CONTRIBUTING.md](CONTRIBUTING.md) for the format. Takes about two minutes.
+Know a tool that belongs here? [Open an issue](https://github.com/open-ai-directory/best-ai-tools-for-healthcare/issues/new/choose) or submit a PR directly — see [CONTRIBUTING.md](CONTRIBUTING.md) for the format. Takes about two minutes.
 
 ## More directories
 
@@ -214,12 +214,12 @@ This is the first repo in the family — more industries are launching soon unde
 
 <div align="center">
 
-⭐ **[Star this repo](../../stargazers)** if it saved you research time — it's how other people find it too.
+⭐ **[Star this repo](https://github.com/open-ai-directory/best-ai-tools-for-healthcare/stargazers)** if it saved you research time — it's how other people find it too.
 
 <a href="https://star-history.com/#open-ai-directory/best-ai-tools-for-healthcare&Date">
   <img src="https://api.star-history.com/svg?repos=open-ai-directory/best-ai-tools-for-healthcare&type=Date" width="500" alt="Star history chart"/>
 </a>
 
-Made with 🏥 by [contributors](../../graphs/contributors) · content is [CC0 licensed](LICENSE)
+Made with 🏥 by [contributors](https://github.com/open-ai-directory/best-ai-tools-for-healthcare/graphs/contributors) · content is [CC0 licensed](LICENSE)
 
 </div>
