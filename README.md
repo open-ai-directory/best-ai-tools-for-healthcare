@@ -25,8 +25,6 @@
 - [Mental Health AI](#mental-health-ai)
 - [Telehealth & AI Symptom Checking](#telehealth--ai-symptom-checking)
 - [Healthcare Operations & Hospital Workflow AI](#healthcare-operations--hospital-workflow-ai)
-- [Quick comparison](#quick-comparison)
-- [FAQ](#faq)
 - [Sponsors](#sponsors)
 - [Contributing](#contributing)
 - [More directories](#more-directories)
@@ -144,38 +142,6 @@
 - **[Syllable](https://syllable.ai/)** — AI voice/text agents automating hospital call-center inquiries, referrals, and appointment scheduling, integrated with EHRs. `Paid (enterprise/custom pricing)`
 - **[Xsolis](https://www.xsolis.com/)** — Dragonfly AI platform automating utilization review, medical necessity, and discharge decisions for 615+ hospitals and payers. `Paid (enterprise/custom pricing)`
 
-## Quick comparison
-
-Three of the most-searched AI medical scribes, compared:
-
-| Tool | Best for | Pricing | Free tier |
-|---|---|---|---|
-| [Abridge](https://www.abridge.com) | Large health systems needing enterprise-scale ambient documentation | Paid (enterprise/custom) | No |
-| [Dragon Copilot (Nuance DAX)](https://www.nuance.com/healthcare/dragon-ai-clinical-solutions/dragon-copilot.html) | Epic-based hospitals wanting dictation and ambient notes in one Microsoft-backed tool | Paid (enterprise/custom) | No |
-| [Suki](https://www.suki.ai) | Independent physicians and multi-specialty groups wanting notes, orders, and coding from one voice assistant | Paid (enterprise/custom) | No |
-
-## FAQ
-
-### Is Abridge HIPAA compliant?
-
-Yes. Abridge is built for clinical use, signs Business Associate Agreements with health systems, and is deployed at HIPAA-covered organizations such as Kaiser Permanente and Duke Health. Clinicians review and approve every AI-generated note before it becomes part of the medical record.
-
-### Can AI replace medical scribes?
-
-Not currently. Platforms such as Abridge, Dragon Copilot, and Suki draft notes from patient-clinician conversations, but a licensed clinician still reviews, edits, and signs off before the note is finalized. These tools are marketed as documentation assistants that cut typing time, not as autonomous replacements for human oversight.
-
-### What's a free AI tool for mental health support?
-
-Wysa offers a free AI chatbot that uses CBT and mindfulness techniques for self-help, with paid tiers adding human coaching and clinician-facing features. It is not a substitute for licensed therapy or crisis care, and it directs users to emergency services when acute risk is detected.
-
-### Is Babylon Health still operating?
-
-No. Babylon Health filed for Chapter 7 bankruptcy in the U.S. in August 2023 and ceased operations, with its UK-related assets sold to eMed. Don't confuse it with currently active telehealth AI companies such as Teladoc Health or Amwell, listed above.
-
-### How accurate are AI symptom checkers like Ada Health or K Health?
-
-Published evaluations show symptom-checker accuracy varies by condition and is generally moderate rather than diagnostic-grade, so these tools are designed to guide care-seeking decisions, like ER versus primary care, rather than provide definitive diagnoses. Ada Health is CE-marked as a medical device in some markets, reflecting regulated but assistive, not autonomous, use.
-
 ## Sponsors
 
 <!-- sponsor-logos:start -->
@@ -184,7 +150,11 @@ Published evaluations show symptom-checker accuracy varies by condition and is g
 
 ## Contributing
 
-Know a tool that belongs here? [Open an issue](https://github.com/open-ai-directory/best-ai-tools-for-healthcare/issues/new/choose) or submit a PR directly — see [CONTRIBUTING.md](CONTRIBUTING.md) for the format. Takes about two minutes.
+> ### 📣 Know a healthcare AI tool that belongs here?
+>
+> **[Add it in two minutes →](https://github.com/open-ai-directory/best-ai-tools-for-healthcare/issues/new/choose)**
+>
+> Or submit a PR directly — see [CONTRIBUTING.md](CONTRIBUTING.md) for the exact format. Every listing is community-sourced, so this list is only as good as what gets contributed.
 
 ## More directories
 
