@@ -162,9 +162,9 @@ Eight repos live so far — more industries are launching soon under [@open-ai-d
 
 | | | |
 |---|---|---|
-| **🏥 Healthcare (this repo)** | [⚖️ Lawyers](https://github.com/open-ai-directory/best-ai-tools-for-lawyers) | [📈 Marketing](https://github.com/open-ai-directory/best-ai-tools-for-marketing) |
-| [💰 Finance](https://github.com/open-ai-directory/best-ai-tools-for-finance) | [🎓 Teachers](https://github.com/open-ai-directory/best-ai-tools-for-teachers) | [👥 HR](https://github.com/open-ai-directory/best-ai-tools-for-hr) |
-| [🧑‍💻 Developers](https://github.com/open-ai-directory/best-ai-tools-for-developers) | [🎨 Designers](https://github.com/open-ai-directory/best-ai-tools-for-designers) | |
+| [⚖️ Lawyers](https://github.com/open-ai-directory/best-ai-tools-for-lawyers) | [📈 Marketing](https://github.com/open-ai-directory/best-ai-tools-for-marketing) | [💰 Finance](https://github.com/open-ai-directory/best-ai-tools-for-finance) |
+| [🎓 Teachers](https://github.com/open-ai-directory/best-ai-tools-for-teachers) | [👥 HR](https://github.com/open-ai-directory/best-ai-tools-for-hr) | [🧑‍💻 Developers](https://github.com/open-ai-directory/best-ai-tools-for-developers) |
+| [🎨 Designers](https://github.com/open-ai-directory/best-ai-tools-for-designers) | | |
 
 ## Contributors
 
